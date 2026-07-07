@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Dataset files
+Fake.csv
+True.csv
+data/
+dataset/
+
+# Environment
+.env
+venv/
